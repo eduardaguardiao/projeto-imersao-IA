@@ -21,7 +21,7 @@
 A eficácia desse agente está em pensar no público mais velho que não tem familiaridade com tecnologia nem com termos jurídicos, oferecendo explicações simples, claras e um passo a passo acessível para facilitar o acesso aos serviços públicos.
 
 ### 💬 Como funciona:
-Este assistente virtual responde dúvidas com uma linguagem acessível, guiando passo a passo o que a pessoa precisa fazer — como agendar serviços, quais documentos levar e onde buscar ajuda.
+Este assistente virtual responde dúvidas com uma linguagem acessível, guiando passo a passo o que a pessoa precisa fazer, como agendar serviços, quais documentos levar e onde buscar ajuda.
 
 ### 🔧 Tecnologias utilizadas:
 - Python + Gemini IA Studio  
