@@ -9,7 +9,7 @@
 </h1>
 
 <h3>
-  🤖 AgentGov – Agente de Serviços Públicos
+  🤖 marIA – Sua ajudante virtual para serviços públicos
 </h3>
  
 <h6>
@@ -27,5 +27,33 @@ Este assistente virtual responde dúvidas com uma linguagem acessível, guiando 
 - Python + Gemini IA Studio  
 - Google Search API para coleta de informações atualizadas  
 - Sistema de agentes para buscar, planejar, redigir e revisar conteúdos com clareza
+- Streamlit para criar uma interface web simples e interativa.
+
+##  ⚙️ Como usar
+### Pré-requisitos
+- Python 3.8+ instalado na sua máquina
+- Conta e chave da API do Google Gemini (Google AI Studio)
+- Git (opcional, para clonar o repositório)
+
+### Passo 1: Clonar o repositório 
+git clone https://github.com/eduardaguardiao/projeto-imersao-IA.git </br>
+cd projeto-imersao-IA
+
+### Passo 2: Configurar o arquivo .env
+GOOGLE_API_KEY=sua_chave_aqui
+
+### Passo 3: Instalar as dependências
+No terminal, execute o comando: </br>
+pip install -r requirements.txt
+
+### Passo 4: Rodar a aplicação Streamlit
+streamlit run marIA.py
+Aguarde a abertura do navegador, ou acesse manualmente: </br>
+http://localhost:8502
+
+### Pronto para uso! 🥂
+<div align="start">
+  <img src="https://github.com/user-attachments/assets/e81fc624-dd52-4d17-bb12-6ea41ec108df" height="300px"/>
+</div>
 
 
