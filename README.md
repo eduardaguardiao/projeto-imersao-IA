@@ -9,7 +9,7 @@
 </h1>
 
 <h3>
-  🤖 AgentGov – Agente de Serviços Públicos
+  🤖 MarIA – Agente de Serviços Públicos
 </h3>
  
 <h6>
