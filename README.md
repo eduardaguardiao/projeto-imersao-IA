@@ -9,7 +9,7 @@
 </h1>
 
 <h3>
-  🤖 MarIA – Agente de Serviços Públicos
+  🤖 marIA – Sua ajudante virtual para serviços públicos
 </h3>
  
 <h6>
