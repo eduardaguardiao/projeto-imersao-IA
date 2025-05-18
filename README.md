@@ -47,7 +47,7 @@ No terminal, execute o comando: </br>
 pip install -r requirements.txt
 
 ### Passo 4: Rodar a aplicação Streamlit
-streamlit run marIA.py
+streamlit run marIA.py </br>
 Aguarde a abertura do navegador, ou acesse manualmente: </br>
 http://localhost:8502
 
