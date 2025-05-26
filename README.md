@@ -60,7 +60,7 @@ http://localhost:8502
 <hr />
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/7ca33c6a-31ad-4a9b-babd-9eb139d55e2c" height="500px" alt="Project preview"/>
+  <img src="https://github.com/user-attachments/assets/eba2806e-5781-4811-a5d4-3976a00b9c61" height="350px"/>
 </div>
 
 <p align="center">
